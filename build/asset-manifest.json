@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4905e1a2.chunk.css",
+    "main.js": "/static/js/main.63bb5105.chunk.js",
+    "main.js.map": "/static/js/main.63bb5105.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a971283.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a971283.js.map",
+    "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
+    "static/js/2.9e440502.chunk.js": "/static/js/2.9e440502.chunk.js",
+    "static/js/2.9e440502.chunk.js.map": "/static/js/2.9e440502.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.79656e6e71a6c612b2c1cba7f102c0e6.js": "/precache-manifest.79656e6e71a6c612b2c1cba7f102c0e6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.4905e1a2.chunk.css.map": "/static/css/main.4905e1a2.chunk.css.map",
+    "static/js/2.9e440502.chunk.js.LICENSE.txt": "/static/js/2.9e440502.chunk.js.LICENSE.txt",
+    "static/media/bresh-title.png": "/static/media/bresh-title.5e910f5b.png",
+    "static/media/App.scss": "/static/media/pool.e825cd37.png",
+    "static/media/logo-jackson.svg": "/static/media/logo-jackson.0f491d43.svg",
+    "static/media/openpark.png": "/static/media/openpark.9b4869f2.png",
+    "static/media/pic2.jpg": "/static/media/pic2.34be04fc.jpg",
+    "static/media/pic4.jpg": "/static/media/pic4.f8ee58a1.jpg",
+    "static/media/pic5.jpg": "/static/media/pic5.77eda24b.jpg",
+    "static/media/pic6.jpg": "/static/media/pic6.067fd5e7.jpg",
+    "static/media/pic8.jpg": "/static/media/pic8.daa9a252.jpg",
+    "static/media/tini.png": "/static/media/tini.2384dc49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a971283.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.9e440502.chunk.js",
+    "static/css/main.4905e1a2.chunk.css",
+    "static/js/main.63bb5105.chunk.js"
+  ]
+}

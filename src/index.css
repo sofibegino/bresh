@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@400;600;800&display=swap");
+
+body {
+  margin: 0;
+  /* font-family: "Darker Grotesque", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif; */
+  font-family: fangsong;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: black;
+}
+
+.scroll-for-more{
+    margin: 0 auto;
+    left: 0px !important;
+    min-height: 200px;
+    width: 100%;
+    text-align: center;
+    color: #d1d1d1;
+    z-index: 20;
+    font-size: 150px;
+  font-weight: 500;
+}
+
+code {
+  /* font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace; */
+    font-family: fangsong;
+}
+
+/* @media (max-width: 1024px) {
+  .scroll-for-more{
+    min-height:100px
+  }
+} */
